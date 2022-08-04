@@ -1,0 +1,33 @@
+{
+"name":"ace icons", 
+"description":"icons", 
+"icons":[
+    {"name":"Global", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Global.png"}, 
+    {"name":"China", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/China.png"}, 
+    {"name":"Bilibili", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/BiliBili.png"}, 
+	{"name":"Bilibili1", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/BiliBili1.png"},
+    {"name":"YouTube", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/YouTube.png"}, 
+    {"name":"Final", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Final.png"}, 
+    {"name":"Apple", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Apple.png"}, 
+    {"name":"Message", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Message.png"}, 
+    {"name":"Netflix", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Netflix.png"}, 
+    {"name":"Music", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Music.png"}, 
+    {"name":"Spotify", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Spotify.png"}, 
+    {"name":"Static", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Static.png"}, 
+    {"name":"Auto", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Auto.png"}, 
+    {"name":"Game", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Game.png"}, 
+    {"name":"Scholar", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Scholar.png"},
+    {"name":"Piao", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Piao.png"},
+    {"name":"Telegram", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/Telegram.png"},	
+    {"name":"HK", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/HK.png"}, 
+    {"name":"MO", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/MO.png"}, 
+    {"name":"TW", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/TW.png"}, 
+    {"name":"CN", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/CN.png"}, 
+    {"name":"UN", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/UN.png"}, 
+    {"name":"UK", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/UK.png"}, 
+    {"name":"US", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/US.png"}, 
+    {"name":"JP", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/JP.png"}, 
+    {"name":"KR", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/KR.png"}, 
+    {"name":"SG", "url":"https://raw.githubusercontent.com/zalmanwen/rule/master/icon/ace/SG.png"}
+ ]
+}
