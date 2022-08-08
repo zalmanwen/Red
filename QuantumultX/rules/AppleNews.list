@@ -1,0 +1,11 @@
+
+# > iCloud
+HOST-SUFFIX,gateway.icloud.com,Applenews
+
+# > Apple News
+HOST-SUFFIX,news-edge.apple.com,Applenews
+HOST-SUFFIX,news-events.apple.com,Applenews
+HOST-SUFFIX,apple.comscoreresearch.com,Applenews
+
+# News+ Audio
+HOST-SUFFIX,news-assets.apple.com,Applenews
