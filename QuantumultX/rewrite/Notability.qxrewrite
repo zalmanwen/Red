@@ -1,0 +1,4 @@
+
+^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/Notability.js
+
+hostname = notability.com

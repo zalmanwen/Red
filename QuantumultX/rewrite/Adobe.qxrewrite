@@ -1,0 +1,5 @@
+
+https://lcs-mobile-cops.adobe.io/mobile_profile/nul/v2 url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/Adobe.js
+https://createpdf.acrobat.com/createpdf/api/users/me/subscriptions url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/AdobeScanPdf.js
+
+hostname = lcs-mobile-cops.adobe.io,createpdf.acrobat.com

@@ -1,0 +1,4 @@
+
+^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/AudioMack.js
+
+hostname = api.revenuecat.com
