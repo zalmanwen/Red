@@ -1,11 +1,23 @@
 
 # > iCloud
-HOST-SUFFIX,gateway.icloud.com,Applenews
-
-# > Apple News
-HOST-SUFFIX,news-edge.apple.com,Applenews
-HOST-SUFFIX,news-events.apple.com,Applenews
-HOST-SUFFIX,apple.comscoreresearch.com,Applenews
+HOST-SUFFIX,gateway.icloud.com,AppleNews
 
 # News+ Audio
-HOST-SUFFIX,news-assets.apple.com,Applenews
+HOST-SUFFIX,news-assets.apple.com,AppleNews
+
+# > Apple News
+HOST-SUFFIX,news-edge.apple.com,AppleNews
+HOST-SUFFIX,news-events.apple.com,AppleNews
+HOST-SUFFIX,apple.comscoreresearch.com,AppleNews
+
+HOST,apple.comscoreresearch.com,AppleNews
+HOST,gateway.icloud.com,AppleNews
+HOST,gspe1-ssl.ls.apple.com,AppleNews
+HOST,news-assets.apple.com,AppleNews
+HOST,news-client-search.apple.com,AppleNews
+HOST,news-client.apple.com,AppleNews
+HOST,news-edge.apple.com,AppleNews
+HOST,news-events.apple.com,AppleNews
+HOST-SUFFIX,apple.news,AppleNews
+USER-AGENT,AppleNews*,AppleNews
+USER-AGENT,com.apple.news*,AppleNews
