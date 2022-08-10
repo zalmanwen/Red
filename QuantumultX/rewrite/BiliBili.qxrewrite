@@ -1,4 +1,8 @@
 
+
+^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/(pgc\/view\/v\d\/app\/season|x\/offline\/version)\? url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/Bili_Auto_Regions.js
+^https:\/\/ap(p|i)\.bili(bili|api)\.(com|net)\/x\/v\d\/search(\/type)?\?.+?%20(%E6%B8%AF|%E5%8F%B0|%E4%B8%AD)& url script-request-header https://raw.githubusercontent.com/zalmanwen/Red/master/js/Bili_Auto_Regions.js
+
 # ～ BiliBili_哔哩哔哩_屏蔽IP请求@ddgksf2013
 ^https?:\/\/app\.bilibili\.com\/x\/resource\/ip url reject
 # ～ BiliBili_哔哩哔哩_屏蔽DefaultWord@ddgksf2013
@@ -54,4 +58,4 @@
 # ～ BiliBili_哔哩哔哩_动态广告@yjqiang
 ;^https://app\.bilibili\.com/bilibili\.app\.dynamic\.v2\.Dynamic/DynAll$ url script-response-body https://raw.githubusercontent.com/yjqiang/surge_scripts/main/scripts/bilibili/bilibili_dynamic.js
 
-hostname = app.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.bilibili.com, manga.bilibili.com, grpc.biliapi.net,api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net
+hostname = app.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.bilibili.com, manga.bilibili.com, grpc.biliapi.net,api.biliapi.net, -broadcast.chat.bilibili.com, -*cdn*.biliapi.net, -*tracker*.biliapi.net, ap?.bili*i.com, ap?.bili*i.net
