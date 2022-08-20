@@ -70,7 +70,7 @@ HOST-SUFFIX,gvt3.com,PROXY
 HOST-SUFFIX,xn--ngstr-lra8j.com,PROXY
 HOST-SUFFIX,ytimg.com,PROXY
 HOST-SUFFIX,google,PROXY
-HOST-SUFFIX,.blogspot.,PROXY
+HOST-SUFFIX,blogspot.,PROXY
 
 # > Line
 HOST-SUFFIX,line.me,PROXY
