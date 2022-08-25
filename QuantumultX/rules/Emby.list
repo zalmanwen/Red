@@ -1,15 +1,13 @@
 
 #misaka
-DOMAIN,cf.misakaf.org,Emby
-DOMAIN,4837.misakaf.org,Emby
+HOST,cf.misakaf.org,Emby
 
 #卷毛鼠
-DOMAIN,cf.jmsooo.com,Emby
-DOMAIN,ha.jmsooo.com,Emby
+HOST,cf.jmsooo.com,Emby
 
 #NakoNako
-DOMAIN,nakonako.net,Emby
+HOST,nakonako.net,Emby
 
 # peach
-DOMAIN,embymv.tk,Emby
+HOST,embymv.tk,Emby
 
