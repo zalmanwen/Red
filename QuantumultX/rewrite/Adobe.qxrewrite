@@ -1,5 +1,8 @@
 
-https://lcs-mobile-cops.adobe.io/mobile_profile/nul/v2 url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/Adobe.js
-https://createpdf.acrobat.com/createpdf/api/users/me/subscriptions url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/AdobeScanPdf.js
+# lightroom
+^https:\/\/photos\.adobe\.io\/v2\/accounts* url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/lightroom.js
 
-hostname = lcs-mobile-cops.adobe.io,createpdf.acrobat.com
+# phothop&PSexpress
+^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/photoshop.js
+
+hostname = photos.adobe.io, lcs-mobile-cops.adobe.io, *.adobe.*,
