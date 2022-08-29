@@ -9,7 +9,7 @@
 \/Users\/\w{32}\/Items\/\d+\? url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/Emby-plugin.js
 
 # 打开外部播放器
-\/plugin\/scheme url script-echo-response https://raw.githubusercontent.com/rartv/EmbyPublic/test/surge/Emby-plugin.js
+\/plugin\/scheme url script-echo-response https://raw.githubusercontent.com/zalmanwen/Red/master/js/Emby-plugin.js
 
 # 资源路径伪静态
 (\/Videos\/\d+\/stream\/.+\?.+&filename)|(\/Videos\/\d+\/\w{32}\/Subtitles\/\d+\/.+\?.+&filename) url script-request-header https://raw.githubusercontent.com/zalmanwen/Red/master/js/Emby-plugin.js
