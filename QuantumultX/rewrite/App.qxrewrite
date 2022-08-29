@@ -8,9 +8,6 @@
 # PicsArt
 ^https?:\/\/api\.meiease\.cn\/shop\/subscription\/validate url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/Picsart.js
 
-# Picsew
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/Picsew.js
-
 # Polarr
 ^https:\/\/api\.polaxiong\.com\/v1\/payments\/appleiap\/receipts\/confirmation url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/Polarr.js
 
@@ -20,19 +17,6 @@
 # Dayone
 ^https:\/\/dayone\.(me|app)\/api\/(users|v2\/users\/(account-status|receipt))$ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/dayone.js
 
-# lightroom
-^https:\/\/photos\.adobe\.io\/v2\/accounts* url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/lightroom.js
-
-# phothop&PSexpress
-^https:\/\/lcs-mobile-cops\.adobe\.io\/mobile_profile url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/photoshop.js
-
-# spotify
-^https\:\/\/spclient\.wg\.spotify\.com\/(bootstrap\/v1\/bootstrap|user-customization-service\/v1\/customize)$ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/spotify-proto.js
-
-# Aphrodite
-^https?:\/\/api\.revenuecat\.com\/v\d\/subscribers\/(\$RCAnonymousID\%)?(\w)+$ url script-echo-response https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/Aphrodite.js
-^https?:\/\/api\.revenuecat\.com\/v\d\/receipts$ url script-echo-response https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/Aphrodite.js
-
 # 美图秀秀
 ^https?:\/\/(h5|api)\.xiuxiu\.meitu\.com\/v\d\/(h\d\/vip|vip|user)\/ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/MeiTuXiuXiu.js
 
@@ -40,19 +24,5 @@
 ^https?:\/\/api\.account\.meitu\.com\/(common\/check_device_login_pwd|users\/show_current\.json) url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/MeiYanXiangJi.js
 ^https?:\/\/api\.meiyan\.com\/vip\/(user_center\.json|user_info\.json) url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/MeiYanXiangJi.js
 
-# TextEditor
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/TextEditor.js
+hostname = vsco.co, -*snssdk.com, -*amemv.com, api.picsart.c*, api.meiease.c*, m*.bybutter.com, api.polaxiong.com, account.wps.cn, dayone.*, api.xiuxiu.meitu.com, h5.xiuxiu.meitu.com, api.account.meitu.com, api.meiyan.com
 
-# 一木记账
-^https?:\/\/yimuapp\.com(:8082)?\/bookkeeping\/user\/getUser\/ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/YiMuJiZhang.js
-
-# OldRoll
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/OldRollFVIPCrack.js
-
-# TOK CAM
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/TokCamFProCrack.js
-
-# TIDAL
-^https?:\/\/api\.tidal\.com\/v1\/(pages\/album|(user|track|page)s\/(\d+)\/(state|subscription|lyrics|onboarding|playbackinfopostpaywall)) url script-request-header https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/TIDALHiFiPlusCrack.js
-
-hostname = vsco.co, -*snssdk.com, -*amemv.com, api.picsart.c*, api.meiease.c*, m*.bybutter.com, api.polaxiong.com, account.wps.cn, dayone.*,  photos.adobe.io, spclient.wg.spotify.com, api.xiuxiu.meitu.com, h5.xiuxiu.meitu.com, api.account.meitu.com, api.meiyan.com, api.meiease.cn, yimuapp.com, lcs-mobile-cops.adobe.io, *.adobe.*, api.tidal.com
