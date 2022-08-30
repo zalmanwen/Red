@@ -638,5 +638,4 @@ IP6-CIDR,2a0b:b583::/48,DIRECT
 
 #Emby
 HOST,ha.jmsooo.com,DIRECT
-HOST,nakoemby.com,DIRECT
 HOST,4837.misakaf.org,DIRECT
