@@ -8,11 +8,8 @@
 # PlaneVPN解锁订阅
 ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/PlaneVPNProCrack.js
 
-# Notability解锁订阅
-^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/NotabilityProCrack.js
-
 # > InShot
 ^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/InShot.js
 
-hostname = api.revenuecat.com, server.yoyiapp.com, notability.com, buy.itunes.apple.com
+hostname = api.revenuecat.com, server.yoyiapp.com, buy.itunes.apple.com
 
