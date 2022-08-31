@@ -1,3 +1,5 @@
+# Appraven
+^https?:\/\/appraven\.net\/AppRaven\/(app|social|buy) url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/appraven.js
 
 # vsco
 ^https:\/\/(api\.revenuecat\.com\/v\d\/subscribers|vsco\.co\/api\/subscriptions\/\d\.\d\/user-subscriptions)\/ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/vsco.js
@@ -27,5 +29,5 @@
 ^https?:\/\/api\.account\.meitu\.com\/(common\/check_device_login_pwd|users\/show_current\.json) url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/MeiYanXiangJi.js
 ^https?:\/\/api\.meiyan\.com\/vip\/(user_center\.json|user_info\.json) url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/MeiYanXiangJi.js
 
-hostname = vsco.co, -*snssdk.com, -*amemv.com, api.picsart.c*, api.meiease.c*, m*.bybutter.com, api.polaxiong.com, account.wps.cn, dayone.*, api.xiuxiu.meitu.com, h5.xiuxiu.meitu.com, api.account.meitu.com, api.meiyan.com, notability.com
+hostname = vsco.co, -*snssdk.com, -*amemv.com, api.picsart.c*, api.meiease.c*, m*.bybutter.com, api.polaxiong.com, account.wps.cn, dayone.*, api.xiuxiu.meitu.com, h5.xiuxiu.meitu.com, api.account.meitu.com, api.meiyan.com, notability.com, appraven.net
 
