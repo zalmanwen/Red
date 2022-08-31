@@ -1,19 +1,18 @@
 
 # > AudioMack解锁永久订阅
-^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/AudioMackProCrack.js
+^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/AudioMackFProCrack.js
 
 # FIMO解锁终身会员
-^https?:\/\/server\.yoyiapp\.com\/fimo-user\/apple\/certificate$ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/FiMoCameraFVIPCrack.js
+^https?:\/\/server\.yoyiapp\.com\/fimo-user\/apple\/certificate$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/FiMoCameraFVIPCrack.js
 
 # PlaneVPN解锁订阅
-^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/PlaneVPNProCrack.js
+^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/PlaneVPNProCrack.js
 
 # Notability解锁订阅
-^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/NotabilityProCrack.js
+^https?:\/\/notability\.com\/subscriptions url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/NotabilityProCrack.js
 
 # > InShot
-^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/zalmanwen/oooooo/master/ccc/InShot.js
+^https:\/\/buy\.itunes\.apple\.com\/verifyReceipt url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/InShot.js
 
-hostname = api.revenuecat.com, server.yoyiapp.com, notability.com
-
+hostname = api.revenuecat.com, server.yoyiapp.com, notability.com, buy.itunes.apple.com
 
