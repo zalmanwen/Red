@@ -17,5 +17,5 @@
 # 下载文件重命名
 (\/Videos\/\d+\/stream\/.+\?.+&filename)|(\/Videos\/\d+\/\w{32}\/Subtitles\/\d+\/.+\?.+&filename) url script-response-header https://raw.githubusercontent.com/zalmanwen/Red/master/js/Download-file-rename.js
 
-hostname = *.mb3admin.com, *.emby.wtf, *.plusmedia.site, *.jmsooo.com, embymv.tk, *.misakaf.org, nakonako.net, nakoemby.com
+hostname = mb3admin.com, *.emby.wtf, *.plusmedia.site, *.jmsooo.com, embymv.tk, *.misakaf.org, nakonako.net, nakoemby.com
 
