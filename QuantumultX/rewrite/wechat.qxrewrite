@@ -1,0 +1,7 @@
+
+# 掌上公交去除广告
+https?:\/\/wx\.mygolbs\.com\/WxBusServer\/ApiData\.do url script-response-body https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Crack/zhangshanggongjiao.js
+
+hostname = wx.mygolbs.com
+
+
