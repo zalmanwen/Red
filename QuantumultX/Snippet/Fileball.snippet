@@ -1,4 +1,4 @@
 
-^https?://api\.revenuecat\.com/v\d/(subscribers/(\$RCAnonymousID\%)?(\w)+|receipts)$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/Unlock.js
+^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/fileball.js
 
 hostname = api.revenuecat.com
