@@ -2,9 +2,6 @@
 # AudioMack解锁永久订阅
 ^https?:\/\/api\.revenuecat\.com\/v1\/subscribers\/(identify|\d+)$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/AudioMackFProCrack.js
 
-# Fileball
-^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/fileball.js
-
 # FIMO解锁终身会员
 ^https?:\/\/server\.yoyiapp\.com\/fimo-user\/apple\/certificate$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/Fimo.js
 
@@ -23,10 +20,7 @@
 # Pixelmator
 https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts) url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/Pixelmator.js
 
-# Vsco
-^https:\/\/(api\.revenuecat\.com\/v\d\/subscribers|vsco\.co\/api\/subscriptions\/\d\.\d\/user-subscriptions)\/ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/vsco.js
-
 # Apollo
 ^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/\$RCAnonymousID%3A\w{32})$ url script-response-body https://raw.githubusercontent.com/zalmanwen/Red/master/js/Apollo.js
 
-hostname = api.revenuecat.com, server.yoyiapp.com, buy.itunes.apple.com, vsco.co
+hostname = api.revenuecat.com, server.yoyiapp.com, buy.itunes.apple.com
