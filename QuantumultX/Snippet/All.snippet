@@ -1,3 +1,4 @@
-
+^https?:\/\/api\.revenuecat\.com\/v1\/(receipts|subscribers\/(\$RCAnonymousID%3A\w{32}|\w{34}|\S{36}))$ url script-response-body https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/revenuecat.js
+https?:\/\/api\.revenuecat\.com\/v1\/(subscribers\/\$RCAnonymousID%3A\w{32}|subscribers\/\d+) url script-request-header https://raw.githubusercontent.com/Alex0510/Eric/master/surge/Script/bytq.js
 
 hostname = api.revenuecat.com
